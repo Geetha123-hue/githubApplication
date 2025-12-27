@@ -1,0 +1,8 @@
+package edu.demo.githubApplication;
+
+public class MyDemo {
+	public static void show()
+	{
+		System.out.println("Happy weekend");
+	}
+}

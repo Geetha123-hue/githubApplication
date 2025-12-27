@@ -4,6 +4,8 @@ public class DemoGitApp {
 	public static void main(String args[])
 	{
 		System.out.println("Hello welcome to github");
+		System.out.println("Heloooo...");
+		MyDemo.show();
 	}
 
 }
